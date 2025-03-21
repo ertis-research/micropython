@@ -22,4 +22,4 @@ package(
 )
 
 # Backwards-compatible notecard module.
-module("notecard.py", opt=3)
+module("unotecard.py", opt=3)
